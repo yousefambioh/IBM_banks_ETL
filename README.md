@@ -1,3 +1,4 @@
 # IBM_banks_ETL
 Developed as part of IBM's Python for Data Engineering course on Coursera, this project demonstrates key concepts in data engineering
  
+A multinational firm has hired you as a data engineer. Your task is to access and process data according to specific requirements. Your boss has assigned you to compile a list of the top 10 largest banks in the world, ranked by market capitalization in billion USD. Additionally, you need to transform the data and store it in USD, GBP, EUR, and INR, using the exchange rate information provided to you in a CSV file. The processed information should be saved locally in a CSV format and as a database table. Managers from different countries will query the database table to extract the list and view the market capitalization values in their respective currencies
